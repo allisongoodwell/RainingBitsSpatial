@@ -1,8 +1,9 @@
 # RainingBitsSpatial
- codes and data files associated with Goodwell, JHM 2020 (submitted)
+ codes and data files associated with Goodwell, JHM 2020
 
-DOI of paper: submitted
-DOI of dataset: TBD
+DOI of paper: 10.1175/JHM-D-20-0134.1
+https://doi.org/10.1175/JHM-D-20-0134.1
+
 
 This repository contains several python codes and results files for the paper
 It's Raining Bits: patterns in directional precipitation persistence across the U.S.
